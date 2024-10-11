@@ -1,5 +1,5 @@
 window.config = {
-  logo: "https://img2.imgtp.com/2024/03/11/YzU8iDJp.png", // 网站logo
+  logo: "https://img.yayal.cc/i/2024/01/27/9ed85f8ce4c7fff6b79809da8fc2c580-download20240106213929.png", // 网站logo
   title: "一树梨花压海棠", // 网站标题
   host: "https://vv.333387.xyz/", // 后端接口地址,请保证关闭了强制https，且host 地址未被墙
   storeHome: {
@@ -8,7 +8,7 @@ window.config = {
       "若您已购买订阅且当前未过期，再次购买相同套餐将在原过期时间上追加时长，购买其他套餐则对原有订阅进行折抵", // 套餐页描述
   },
   SignPage: {
-    title: "覆盖全球的高速网络", // 登录页标题
+    title: "", // 登录页标题
     desc1: "Brother", // 登录页描述1
     desc2: "Dont pickpocket my website!", // 登录页描述2
     inviteCodeEdit: false, // 是否允许用户修改邀请码
