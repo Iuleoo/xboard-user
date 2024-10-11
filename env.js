@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'http://vv.333387.xyz/'
+window.routerBase = 'https://vv.333387.xyz/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
